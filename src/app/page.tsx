@@ -60,53 +60,53 @@ export default function LandingPage() {
       description="Liquid Spot — это премиальные вкусы Elfliq и Chaser. Сочно, ярко и быстро. Ваш лучший вейп-опыт начинается здесь."
       leftCarouselItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg?_wi=1",
           imageAlt: "Hero 1",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg?_wi=1",
           imageAlt: "Hero 2",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg?_wi=2",
           imageAlt: "Hero 3",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg?_wi=2",
           imageAlt: "Hero 4",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg?_wi=3",
           imageAlt: "Hero 5",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg?_wi=3",
           imageAlt: "Hero 6",
         },
       ]}
       rightCarouselItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg?_wi=4",
           imageAlt: "Hero 7",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg?_wi=4",
           imageAlt: "Hero 8",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg?_wi=5",
           imageAlt: "Hero 9",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg?_wi=5",
           imageAlt: "Hero 10",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg?_wi=6",
           imageAlt: "Hero 11",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg?_wi=6",
           imageAlt: "Hero 12",
         },
       ]}
@@ -175,10 +175,10 @@ export default function LandingPage() {
           icon: Zap,
           mediaItems: [
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/frozen-grapefruit_23-2148176353.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/frozen-grapefruit_23-2148176353.jpg?_wi=1",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-sliced-melon-plate-white-background_141793-14266.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-sliced-melon-plate-white-background_141793-14266.jpg?_wi=1",
             },
           ],
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BoE80PaxsFJGHeOZDxjk7Eeddl/uploaded-1775146875819-h6lpl4fy.png",
@@ -190,13 +190,13 @@ export default function LandingPage() {
           icon: Shield,
           mediaItems: [
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-sliced-melon-plate-white-background_141793-14266.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-sliced-melon-plate-white-background_141793-14266.jpg?_wi=2",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/frozen-pomegranate-seeds_23-2148176345.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/frozen-pomegranate-seeds_23-2148176345.jpg?_wi=1",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg?_wi=7",
           imageAlt: "vape liquid commercial 3d render neon",
         },
         {
@@ -205,13 +205,13 @@ export default function LandingPage() {
           icon: Rocket,
           mediaItems: [
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/frozen-pomegranate-seeds_23-2148176345.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/frozen-pomegranate-seeds_23-2148176345.jpg?_wi=2",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/frozen-grapefruit_23-2148176353.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/frozen-grapefruit_23-2148176353.jpg?_wi=2",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg?_wi=7",
           imageAlt: "vape bottles neon glow dark background",
         },
       ]}
@@ -246,14 +246,14 @@ export default function LandingPage() {
           name: "Elfliq Mango Peach",
           price: "450 ₽",
           variant: "50мг",
-          imageSrc: "http://img.b2bpic.net/free-photo/energy-drink-bottle-with-neon-lights_23-2152017170.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/energy-drink-bottle-with-neon-lights_23-2152017170.jpg?_wi=1",
         },
         {
           id: "p4",
           name: "Chaser Triple Berry",
           price: "420 ₽",
           variant: "50мг",
-          imageSrc: "http://img.b2bpic.net/free-photo/energy-drink-bottle-with-neon-lights_23-2152017170.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/energy-drink-bottle-with-neon-lights_23-2152017170.jpg?_wi=2",
         },
         {
           id: "p5",
