@@ -45,20 +45,20 @@ export default function LandingPage() {
       title="Жидкости, которые взрывают вкусом"
       description="Liquid Spot — это премиальные вкусы Elfliq и Chaser. Сочно, ярко и быстро. Ваш лучший вейп-опыт начинается здесь."
       leftCarouselItems={[
-        { imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg", imageAlt: "Hero 1" },
-        { imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg", imageAlt: "Hero 2" },
-        { imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg", imageAlt: "Hero 3" },
-        { imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg", imageAlt: "Hero 4" },
-        { imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg", imageAlt: "Hero 5" },
-        { imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg", imageAlt: "Hero 6" },
+        { imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg?_wi=1", imageAlt: "Hero 1" },
+        { imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg?_wi=1", imageAlt: "Hero 2" },
+        { imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg?_wi=2", imageAlt: "Hero 3" },
+        { imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg?_wi=2", imageAlt: "Hero 4" },
+        { imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg?_wi=3", imageAlt: "Hero 5" },
+        { imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg?_wi=3", imageAlt: "Hero 6" },
       ]}
       rightCarouselItems={[
-        { imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg", imageAlt: "Hero 7" },
-        { imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg", imageAlt: "Hero 8" },
-        { imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg", imageAlt: "Hero 9" },
-        { imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg", imageAlt: "Hero 10" },
-        { imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg", imageAlt: "Hero 11" },
-        { imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg", imageAlt: "Hero 12" },
+        { imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg?_wi=4", imageAlt: "Hero 7" },
+        { imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg?_wi=4", imageAlt: "Hero 8" },
+        { imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg?_wi=5", imageAlt: "Hero 9" },
+        { imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg?_wi=5", imageAlt: "Hero 10" },
+        { imageSrc: "http://img.b2bpic.net/free-photo/abstract-formed-by-color-dissolving-water_1112-1893.jpg?_wi=6", imageAlt: "Hero 11" },
+        { imageSrc: "http://img.b2bpic.net/free-photo/young-man-vaping-from-hookah-bar_23-2149194184.jpg?_wi=6", imageAlt: "Hero 12" },
       ]}
       buttons={[{ text: "Попробовать хит", href: "#products" }]}
     />
@@ -73,22 +73,22 @@ export default function LandingPage() {
         {
           title: "Сочные профили",          description: "Насыщенные фруктовые и ягодные миксы от лидеров рынка.",          icon: Zap,
           mediaItems: [
-            { imageSrc: "http://img.b2bpic.net/free-photo/frozen-grapefruit_23-2148176353.jpg" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-sliced-melon-plate-white-background_141793-14266.jpg" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/frozen-grapefruit_23-2148176353.jpg?_wi=1" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-sliced-melon-plate-white-background_141793-14266.jpg?_wi=1" },
           ]
         },
         {
           title: "Гарантия качества",          description: "Только оригинальная продукция Elfliq и Chaser.",          icon: Shield,
           mediaItems: [
-            { imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-sliced-melon-plate-white-background_141793-14266.jpg" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/frozen-pomegranate-seeds_23-2148176345.jpg" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/close-up-view-sliced-melon-plate-white-background_141793-14266.jpg?_wi=2" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/frozen-pomegranate-seeds_23-2148176345.jpg?_wi=1" },
           ]
         },
         {
           title: "Быстрая доставка",          description: "Оперативная отправка, чтобы вы не ждали свой любимый вкус.",          icon: Rocket,
           mediaItems: [
-            { imageSrc: "http://img.b2bpic.net/free-photo/frozen-pomegranate-seeds_23-2148176345.jpg" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/frozen-grapefruit_23-2148176353.jpg" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/frozen-pomegranate-seeds_23-2148176345.jpg?_wi=2" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/frozen-grapefruit_23-2148176353.jpg?_wi=2" },
           ]
         },
       ]}
@@ -106,8 +106,8 @@ export default function LandingPage() {
       products={[
         { id: "p1", name: "Elfliq Watermelon Ice", price: "450 ₽", variant: "20мг", imageSrc: "http://img.b2bpic.net/free-photo/top-view-vials-pills_23-2148021460.jpg" },
         { id: "p2", name: "Chaser Strawberry Mint", price: "420 ₽", variant: "20мг", imageSrc: "http://img.b2bpic.net/free-photo/hand-holding-paper-bag_23-2148081023.jpg" },
-        { id: "p3", name: "Elfliq Mango Peach", price: "450 ₽", variant: "50мг", imageSrc: "http://img.b2bpic.net/free-photo/energy-drink-bottle-with-neon-lights_23-2152017170.jpg" },
-        { id: "p4", name: "Chaser Triple Berry", price: "420 ₽", variant: "50мг", imageSrc: "http://img.b2bpic.net/free-photo/energy-drink-bottle-with-neon-lights_23-2152017170.jpg" },
+        { id: "p3", name: "Elfliq Mango Peach", price: "450 ₽", variant: "50мг", imageSrc: "http://img.b2bpic.net/free-photo/energy-drink-bottle-with-neon-lights_23-2152017170.jpg?_wi=1" },
+        { id: "p4", name: "Chaser Triple Berry", price: "420 ₽", variant: "50мг", imageSrc: "http://img.b2bpic.net/free-photo/energy-drink-bottle-with-neon-lights_23-2152017170.jpg?_wi=2" },
         { id: "p5", name: "Elfliq Blueberry", price: "450 ₽", variant: "20мг", imageSrc: "http://img.b2bpic.net/free-photo/abstract-creative-illustration_23-2151980703.jpg" },
         { id: "p6", name: "Chaser Menthol", price: "420 ₽", variant: "20мг", imageSrc: "http://img.b2bpic.net/free-photo/abstract-purple-blue-cloud_53876-71298.jpg" },
       ]}
